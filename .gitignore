@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+.keras
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Caches & IDEs
+.vscode/
+.idea/
+*.swp
+.pytest_cache/
+
+# Datasets and ML Models (Prevents uploading large files)
+*.csv
+*.dat
+*.pkl
+*.h5
+*.pt
+*.pth
+/data/
+/models/
+/datasets/
+
+# OS generated files
+.DS_Store
+Thumbs.db
