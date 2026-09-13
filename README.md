@@ -1,4 +1,5 @@
 # MNIST Binary Dataset Loader
+### Streamlit :https://mayank-mnist.streamlit.app/
 
 A high-performance, vectorized Python parser for reading binary IDX-formatted datasets (such as MNIST) into NumPy arrays without relying on heavy third-party framework dependencies.
 
